@@ -3,7 +3,7 @@
 ---
 
 ### 0. Pre-setup Environment: Optional
-## Check if there is any merge request from admin
+#### Check if there is any merge request from admin
 <sub><i>*These steps are only for comeback user who want to modify or update their existed Application Installer</i></sub>
 
 **`Step 1:`**
