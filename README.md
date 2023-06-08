@@ -24,9 +24,9 @@ Select the Sub-Group named <code>[your-desired-application]</code>
 <br/>
 Create Sub-Group named <code>[your-desired-application|your work account name]</code>
 <br/>
-<code><i>(Click on button <b>New Subgroup</b> on the top right corner, next to button <b>New project</b>)</i></code>
-<br/>
 <code><i>(ex: Sub-Group [Notepad++|qle2])</i></code>
+<br/>
+<code><i>(Click on button <b>New Subgroup</b> on the top right corner, next to button <b>New project</b>)</i></code>
 <br/>
 <sub><i>*This Sub-Group is where you gonna store your Application Installer later</i></sub>
 
