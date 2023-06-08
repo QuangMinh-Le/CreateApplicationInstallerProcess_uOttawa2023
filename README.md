@@ -10,22 +10,24 @@ Go to Group [SCCM-Applications-Scripts]
 **`Step 2:`**
 <br/>
 Go to Sub-Group [Applications]
-<i>Sub-Group has 3 dots at the begining</i>
+<br/>
+<i>**Sub-Group has 3 dots at the begining**</i>
 
 **`Step 3:`**
 <br/>
 Select the Sub-Group named [your-desired-application] 
 <br/>
-(ex: a Sub-Group [Notepad++])
+<code><i>(ex: a Sub-Group [Notepad++])</i></code>
 
 **`Step 4:`**
 <br/>
 Create Sub-Group named [your-desired-application|your work account name]
 <br/>
-(<code><i>button <b>New Subgroup</b> on the top right corner, next to button <b>New project</b></i></code>) 
+<code><i>(Button <b>New Subgroup</b> on the top right corner, next to button <b>New project</b>)</i></code>
 <br/>
-(ex: Sub-Group [Notepad++|qle2])
-<i>This Sub-Group is to store your Application Installer later</i>
+<code><i>(ex: Sub-Group [Notepad++|qle2])</i></code>
+<br/>
+<i>**This Sub-Group is to store your Application Installer later**</i>
 
 ### B. Create your own Application Installer from template:
 
