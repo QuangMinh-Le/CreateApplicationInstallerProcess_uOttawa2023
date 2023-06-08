@@ -1,6 +1,12 @@
 # Process to create an Application Installer Package
 
 ---
+
+### 0. Pre-setup Environment: Optional
+<sub>These steps are only for comeback user who want to modify or update their existed Application Installer</sub>
+
+**`Step 1:`**
+
 ### A. Set-up Environment
 
 **`Step 1:`**
@@ -62,7 +68,7 @@ Then select the path to the Sub-Group (from the dropdown menu) that you have jus
 <br/>
 <code><i>(ex: Path [sccm-applications-scripts/applications/Notepadd++/Notepadd++|qle2])</i></code>
 
-**`Step 6: optional`**
+**`Step 6: (optional)`**
 <br/>
 Give your project a short description
 
