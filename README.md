@@ -7,17 +7,23 @@
 
 **`Step 1:`**
 <br/>
-Click on button <code>Merge Request</code> (4th button from top, on the left most navigation column)
+Click on button <code><b>Merge Request</b></code> (4th button from top, on the left most navigation column)
 
 **`Step 2:`**
 <br/>
-If there is not any merge request, you are good to go. You can skip the steps below and start modifying your Installer.
+If there is not any merge request, you are good to go. You can skip the steps below and start modifying your Installer
 <br/>
 If there is a merge request, follow these steps below:
 <br/>
 
 ***`Step 2.1:`***
+If there is a conflict, you can click on button <code><b>Changes</b></code>(the right most button under the title of the merge request) to review the changes from the merge request and resolve it. 
+<br/>
+If there is no conflict ("Ready to merge!"), you can click on the button <code><b>Merge</b></code> to accept the merge request. 
+<sub><i>*You still can review the changes by clicking on button <code><b>Changes</b></code></i></sub>
 
+***`Step 2.1:`***
+Everything is set, you start modifying your Installer
 
 ### A. Set-up Environment
 
