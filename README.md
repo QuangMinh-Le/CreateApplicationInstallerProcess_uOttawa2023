@@ -17,9 +17,11 @@ If there is a merge request, follow these steps below:
 <br/>
 
 ***`Step 2.1:`***
+<br/>
 If there is a conflict, you can click on button <code><b>Changes</b></code>(the right most button under the title of the merge request) to review the changes from the merge request and resolve it. 
 <br/>
-If there is no conflict ("Ready to merge!"), you can click on the button <code><b>Merge</b></code> to accept the merge request. 
+If there is no conflict ("Ready to merge!"), you can click on the button <code><b>Merge</b></code> to accept the merge request.
+<br/> 
 <sub><i>*You still can review the changes by clicking on button <code><b>Changes</b></code></i></sub>
 
 ***`Step 2.1:`***
