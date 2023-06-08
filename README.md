@@ -2,13 +2,14 @@
 
 ---
 
-### 0. Pre-setup Environment: Optional
-#### Check if there is any merge request from admin
+### 0. Pre-setup Environment: Check if there is any merge request from admin (Optional)
 <sub><i>*These steps are only for comeback user who want to modify or update their existed Application Installer</i></sub>
 
 **`Step 1:`**
-Check if there is any merge request from admin
+Click on button <code>Merge Request</code> (4th button from top, on the left most navigation column)
 
+**`Step 2:`**
+If there is not any merge request, you are good to go. You can now modify and update your Installer
 ### A. Set-up Environment
 
 **`Step 1:`**
