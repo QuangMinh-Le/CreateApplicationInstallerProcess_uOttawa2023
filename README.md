@@ -5,13 +5,13 @@
 
 **`Step 1:`**
 <br/>
-Go to Group [SCCM-Applications-Scripts]
+Go to Group <span>[SCCM-Applications-Scripts]</span>
 
 **`Step 2:`**
 <br/>
 Go to Sub-Group [Applications]
 <br/>
-<i>Sub-Group has 3 dots at the begining</i>
+<i>*Sub-Group has 3 dots at the begining</i>
 
 **`Step 3:`**
 <br/>
@@ -23,7 +23,7 @@ Select the Sub-Group named [your-desired-application]
 <br/>
 Create Sub-Group named [your-desired-application|your work account name]
 <br/>
-<code><i>(Button <b>New Subgroup</b> on the top right corner, next to button <b>New project</b>)</i></code>
+<code><i>(Click on button <b>New Subgroup</b> on the top right corner, next to button <b>New project</b>)</i></code>
 <br/>
 <code><i>(ex: Sub-Group [Notepad++|qle2])</i></code>
 <br/>
