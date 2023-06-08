@@ -9,9 +9,9 @@ Go to Group <code>[SCCM-Applications-Scripts]</code>
 
 **`Step 2:`**
 <br/>
-Go to Sub-Group [Applications]
+Go to Sub-Group <code>[Applications]</code>
 <br/>
-<i>*There are 2 types of sections under Group (Sub-Group & Project).
+<i font-weight="smaller">*There are 2 types of sections under Group (Sub-Group & Project).
 <br>Sub-Group has 3 dots at the begining, Project does not.</i>
 
 **`Step 3:`**
