@@ -59,6 +59,7 @@ Name your project (porject's name must be in this format <code>[Installer|...]</
 Click on button <code><i><b>Select a namespace</b></i> under the section Project URL.</code>
 <br/>
 Then select the path to the Sub-Group (from the dropdown menu) that you have just created earlier. 
+<br/>
 <code><i>(ex: Path [sccm-applications-scripts/applications/Notepadd++/Notepadd++|qle2])</i></code>
 
 **`Step 6: optional`**
