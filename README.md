@@ -3,9 +3,11 @@
 ---
 
 ### 0. Pre-setup Environment: Optional
-<sub>These steps are only for comeback user who want to modify or update their existed Application Installer</sub>
+## Check if there is any merge request from admin
+<sub><i>*These steps are only for comeback user who want to modify or update their existed Application Installer</i></sub>
 
 **`Step 1:`**
+Check if there is any merge request from admin
 
 ### A. Set-up Environment
 
