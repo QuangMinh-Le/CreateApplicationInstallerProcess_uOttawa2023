@@ -10,7 +10,7 @@ Go to Group [SCCM-Applications-Scripts]
 **`Step 2:`**
 <br/>
 Go to Sub-Group [Applications]
-<i>Sub-Group has 3 dots at</i>
+<i>Sub-Group has 3 dots at the begining</i>
 
 **`Step 3:`**
 <br/>
