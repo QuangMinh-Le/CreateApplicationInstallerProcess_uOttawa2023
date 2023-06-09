@@ -24,7 +24,7 @@ If there is no conflict ("Ready to merge!"), you can click on the button <code><
 <br/> 
 <sub><i>*You still can review the changes by clicking on button <code><b>Changes</b></code></i></sub>
 
-***`Step 2.1:`***
+***`Step 2.2:`***
 Everything is set, you start modifying your Installer
 
 ### A. Set-up Environment
