@@ -36,11 +36,10 @@ If there is no conflict ("Ready to merge!"), you can click on the button <code><
 ***`Step 2.2:`***
 Everything is set, you start modifying your Installer
 
-## ***`Let's say you want to create an Installer for Office365. Here are how to do it!`***
+## **Let's say you want to create an Installer for Office365. Here are how to do it!**
 
 ### A. 🧰 Set-up Environment
 
-<br>
 **`Step 1:`**
 <br/>
 From the Homepage, on the left most navigation column, click on button <code><b>Groups</b></code> (3th button from top).
