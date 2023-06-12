@@ -2,6 +2,18 @@
 
 ---
 
+### 0. Essential Terminologies before getting start:
+
+| Terminology | Definition |
+| --- | --- |
+| **Group** |  A group in GitLab is a collection of projects. It provides a way to organize and manage related projects together. Groups can have multiple members and can be used for access control and collaboration. |
+| **Subgroup** |  A subgroup is a hierarchical structure within a group. It allows further organization and management of projects within a group. Subgroups can be created within subgroups, forming a tree-like structure. |
+| **Project** | A project in GitLab represents a repository of files and code. It's where you store your code, track changes, and collaborate with others. Projects have their own settings, issue tracking, and merge requests. |
+| **Fork** | Forking is the process of creating a copy of a repository under your own account or namespace. It allows you to make changes to the codebase without affecting the original project. Forks are often used for contributing to open-source projects or experimenting with modifications. |
+| **Merge** | Merging is the process of combining changes from one branch into another. In GitLab, you can merge branches to consolidate code changes. For example, merging a feature branch into the main branch incorporates the new feature into the main codebase. |
+| **Merge Request** |  A merge request (also known as a pull request in other version control systems) is a proposal to merge changes from one branch into another. It is a way to review and discuss code changes before they are merged. Merge requests provide a collaborative workflow, allowing team members to review, comment, and suggest modifications. |
+
+
 ### 0. Pre-setup Environment: Check if there is any merge request from admin (Optional)
 <sub><i>*These steps are only for comeback user who want to modify or update their existed Application Installer</i></sub>
 
