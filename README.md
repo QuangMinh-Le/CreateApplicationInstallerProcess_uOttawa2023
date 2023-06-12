@@ -46,22 +46,22 @@ From the Homepage, on the left most navigation column, click on button <code><b>
 
 **`Step 2:`**
 <br/>
-Select Group <code>[SCCM-Applications-Scripts].</code>
+Select Group <code>[SCCM-Applications-Scripts]</code>.
 
 **`Step 3:`**
 <br/>
-Select Subgroup <code>[Applications].</code>
+Select Subgroup <code>[Applications]</code>.
 <br/>
 <sub><i>Subgroup has 3 dots at the begining, Project does not.</i></sub>
 
 **`Step 4:`**
 <br/>
-Select the Subgroup named <code>[Office365].</code>
+Select the Subgroup named <code>[Office365]</code>.
 <br/>
 
 **`Step 5:`**
 <br/>
-Click on button <code><b>New subgroup</b></code> (on the top right corner, next to button <code><b>New project</b></code>), create Subgroup named <code>[Office365|qle2].</code>
+Click on button <code><b>New subgroup</b></code> (on the top right corner, next to button <code><b>New project</b></code>), create Subgroup named <code>[Office365|qle2]</code>.
 <br/>
 <i>Add work account at the end.</i>
 <br/>
@@ -71,37 +71,37 @@ Click on button <code><b>New subgroup</b></code> (on the top right corner, next 
 
 **`Step 1:`**
 <br/>
-Go back to Subgroup <code>[Office365]</code>
+Go back to Subgroup <code>[Office365]</code>.
 
 **`Step 2:`**
 <br/>
-Select Project <code>[Office365|original]</code>
+Select Project <code>[Office365|original]</code>.
 <br/>
 
 **`Step 3:`**
 <br/>
-Click on button <code><b>Fork</b></code> (on the top right corner, on the right of project's name)
+Click on button <code><b>Fork</b></code> (on the top right corner, on the right of project's name).
 <br/>
-<sub><i>*You will be redirected to the Forking window</i></sub>
+<sub><i>*You will be redirected to the Forking window.</i></sub>
 
 **`Step 4:`**
 <br/>
 Name your project.
 <br/>
-(project's name must be in this format <code>[Installer|...]</code>, you can put a specific version or date in the blank)
+(Project's name must be in this format <code>[Installer|...]</code>, you can put a specific version or date in the blank).
 <br/>
-<code><i>(ex: Project [Installer|ver.10.0])</i></code>
+<code><i>(ex: Project [Installer|ver.10.0]).</i></code>
 
 **`Step 5:`**
 <br/>
-Under the section Project URL, click on button <code><b>Select a namespace</b>.</code>
+Under the section Project URL, click on button <code><b>Select a namespace</b></code>.
 <br/>
 Then select the path to the Subgroup (from the dropdown menu) that you have just created earlier. 
 <br/>
-<i>(ex: Path <code>[sccm-applications-scripts/applications/Office365/Office365|qle2])</code></i>
+<i>(ex: Path <code>[sccm-applications-scripts/applications/Office365/Office365|qle2])</code>.</i>
 
 **`Step 6: (optional)`**
 <br/>
-Give your project a short description
+Give your project a short description.
 
 ### C. 🔭 Modify the Application Installer:
