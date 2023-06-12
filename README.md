@@ -125,9 +125,30 @@ Make any modification to the files.
 
 **`Step 4: Save the changes`**
 
-**__`Step 4.1:`__**
-
+***`Step 4.1:`***
 </br>
 After modification, on the left most navigation column, click on button <code><b>Source Control</b></code>.
 
+***`Step 4.2:`***
+</br>
+Write a commit message. 
+</br>
+Then, click on <code><b>Commit & Push</b></code>.
+</br>
+Then, you will see a pop-up, select <code>No. Use the current branch "main"</code> option.
+
+***`Step 4.3:`***
+</br>
+All the changes you made is now saved. 
+</br>
+You can close the online IDE window, and go back to project window.
+<sub><i>*Reload the page to see changes.</i></sub>
+
 #### Method 2: Offline, locally 🏠
+
+**`Step 1:`**
+Follow [Gitlab.uottawa setup instructions](https://www.uottawa.ca/uoweb/en/development/working-with-git).
+
+
+**`Step 2:`**
+Follow [Gitlab.uottawa setup instructions](https://www.uottawa.ca/uoweb/en/development/working-with-git).
