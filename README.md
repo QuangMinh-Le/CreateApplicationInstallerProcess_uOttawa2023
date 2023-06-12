@@ -2,7 +2,7 @@
 
 ---
 
-### ** Essential terminologies before getting start: **
+### ** 📝 Essential terminologies before getting start: **
 | Terminology | Definition |
 | :---: | --- |
 | <b>Group <br> --- <br> Subgroup <br> --- <br> Project</b> |  The relationship between these entities is hierarchical. A **group** can contain multiple subgroups, and each **subgroup** can contain multiple **projects** (similar to repositories in github). |
@@ -11,7 +11,7 @@
 | **Merge Request** |  A <b>merge request</b> (also known as a pull request) is a proposal to merge changes from one project into another. It is a way to review and discuss code changes before they are merged. Merge requests provide a collaborative workflow, allowing team members to review, comment, and suggest modifications. |
 
 
-### 0. Pre-setup Environment: Check if there is any merge request from admin (Optional)
+### 0. 💡🛠️🔭 Pre-setup Environment: Check if there is any merge request from admin (Optional)
 <sub><i>*These steps are only for comeback user who want to modify or update their existed Application Installer</i></sub>
 
 **`Step 1:`**
@@ -35,8 +35,8 @@ If there is no conflict ("Ready to merge!"), you can click on the button <code><
 
 ***`Step 2.2:`***
 Everything is set, you start modifying your Installer
----
-### A. Set-up Environment
+
+### A. 🧰 Set-up Environment
 
 **`Step 1:`**
 <br/>
