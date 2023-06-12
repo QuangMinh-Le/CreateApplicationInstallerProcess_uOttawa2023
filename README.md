@@ -5,7 +5,7 @@
 ### ** Essential terminologies before getting start: **
 | Terminology | Definition |
 | :---: | --- |
-| <b>Group <br> --- <br> Subgroup <br> --- <br> Project</b> |  The relationship between these entities is hierarchical. A **group** can contain multiple subgroups, and each **subgroup** can contain multiple **projects** (similar to repository in github). |
+| <b>Group <br> --- <br> Subgroup <br> --- <br> Project</b> |  The relationship between these entities is hierarchical. A **group** can contain multiple subgroups, and each **subgroup** can contain multiple **projects** (similar to repositories in github). |
 | **Fork** | <b>Forking</b> is the process of creating a copy of a project under your own account or namespace. It allows you to make changes to the codebase without affecting the original project. Forks are often used for contributing to open-source projects or experimenting with modifications. |
 | **Merge** | <b>Merging</b> is the process of combining changes from one project into another. In GitLab, you can merge projects to consolidate code changes. For example, merging a fork project into the original project incorporates the new feature into the original codebase. |
 | **Merge Request** |  A <b>merge request</b> (also known as a pull request) is a proposal to merge changes from one project into another. It is a way to review and discuss code changes before they are merged. Merge requests provide a collaborative workflow, allowing team members to review, comment, and suggest modifications. |
@@ -16,11 +16,11 @@
 
 **`Step 1:`**
 <br/>
-Click on button <code><b>Merge Request</b></code> (4th button from top, on the left most navigation column)
+On the left most navigation column, click on button <code><b>Merge Request</b></code> (4th button from top).
 
 **`Step 2:`**
 <br/>
-If there is not any merge request, you are good to go. You can skip the steps below and start modifying your Installer
+If there is not any merge request, you are good to go. You can skip the steps below and start modifying your Installer.
 <br/>
 If there is a merge request, follow these steps below:
 <br/>
@@ -35,27 +35,31 @@ If there is no conflict ("Ready to merge!"), you can click on the button <code><
 
 ***`Step 2.2:`***
 Everything is set, you start modifying your Installer
-
+---
 ### A. Set-up Environment
 
 **`Step 1:`**
 <br/>
-Go to Group <code>[SCCM-Applications-Scripts]</code>
+From the Homepage, on the left most navigation column, click on button <code><b>Groups</b></code> (3th button from top).
 
 **`Step 2:`**
+<br/>
+Select Group <code>[SCCM-Applications-Scripts]</code>
+
+**`Step 3:`**
 <br/>
 Go to Sub-Group <code>[Applications]</code>
 <br/>
 <sub><i>*There are 2 types of sections under Group (Sub-Group & Project).
 <br>Sub-Group has 3 dots at the begining, Project does not.</i></sub>
 
-**`Step 3:`**
+**`Step 4:`**
 <br/>
 Select the Sub-Group named <code>[your-desired-application]</code>
 <br/>
 <code><i>(ex: Sub-Group [Notepad++])</i></code>
 
-**`Step 4:`**
+**`Step 5:`**
 <br/>
 Click on button <code><b>New Subgroup</b></code> (on the top right corner, next to button <code><b>New project</b></code>), create Sub-Group named <code>[your-desired-application|your work account name]</code>
 <br/>
