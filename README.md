@@ -5,9 +5,7 @@
 ### ** Essential terminologies before getting start: **
 | Terminology | Definition |
 | :---: | --- |
-| <b>Group <br> --- <br> Subgroup <br> --- <br> Project</b> |  A group in GitLab is a collection of projects. It provides a way to organize and manage related projects together. Groups can have multiple members and can be used for access control and collaboration. 
-<br> A <b>subgroup</b> is a hierarchical structure within a group. It allows further organization and management of projects within a group. Subgroups can be created within subgroups, forming a tree-like structure. 
-<br> A <b>project</b> in GitLab represents a repository of files and code. It's where you store your code, track changes, and collaborate with others. Projects have their own settings, issue tracking, and merge requests. |
+| <b>Group <br> --- <br> Subgroup <br> --- <br> Project</b> |  The relationship between these entities is hierarchical. A group can contain multiple subgroups, and each subgroup can contain multiple projects (similar to repository in github). |
 | **Fork** | <b>Forking</b> is the process of creating a copy of a repository under your own account or namespace. It allows you to make changes to the codebase without affecting the original project. Forks are often used for contributing to open-source projects or experimenting with modifications. |
 | **Merge** | <b>Merging</b> is the process of combining changes from one branch into another. In GitLab, you can merge branches to consolidate code changes. For example, merging a feature branch into the main branch incorporates the new feature into the main codebase. |
 | **Merge Request** |  A <b>merge request</b> (also known as a pull request in other version control systems) is a proposal to merge changes from one branch into another. It is a way to review and discuss code changes before they are merged. Merge requests provide a collaborative workflow, allowing team members to review, comment, and suggest modifications. |
