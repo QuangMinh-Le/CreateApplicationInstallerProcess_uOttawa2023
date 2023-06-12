@@ -2,7 +2,7 @@
 
 ---
 
-### 0. Essential Terminologies before getting start:
+### ** Essential Terminologies before getting start: **
 
 | Terminology | Definition |
 | --- | --- |
