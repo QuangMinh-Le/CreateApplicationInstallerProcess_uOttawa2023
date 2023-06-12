@@ -75,7 +75,7 @@ Go back to Subgroup <code>[Office365]</code>.
 
 **`Step 2:`**
 <br/>
-Select Project <code>[Office365|original]</code>.
+Select Project <code>[Office365_original]</code>.
 <br/>
 
 **`Step 3:`**
@@ -88,9 +88,9 @@ Click on button <code><b>Fork</b></code> (on the top right corner, on the right 
 <br/>
 Name your project.
 <br/>
-(Project's name must be in this format <code>[Installer|...]</code>, you can put a specific version or date in the blank).
+(Project's name must be in this format <code>[Installer_...]</code>, you can put a specific version or date in the blank).
 <br/>
-<code><i>(ex: Project [Installer|ver.10.0]).</i></code>
+<code><i>(ex: Project [Installer_v10.0]).</i></code>
 
 **`Step 5:`**
 <br/>
@@ -98,10 +98,36 @@ Under the section Project URL, click on button <code><b>Select a namespace</b></
 <br/>
 Then select the path to the Subgroup (from the dropdown menu) that you have just created earlier. 
 <br/>
-<i>(ex: Path <code>[sccm-applications-scripts/applications/Office365/Office365|qle2])</code>.</i>
+<i>(ex: Path <code>[sccm-applications-scripts/applications/Office365/Office365_qle2])</code>.</i>
 
 **`Step 6: (optional)`**
 <br/>
 Give your project a short description.
 
 ### C. 🔭 Modify the Application Installer:
+
+#### Method 1: Online 🌎
+
+**`Step 1:`**
+</br>
+Go to the project where you have just forked from the template.
+</br>
+<i>(ex: <code>[SCCM-Applications-Scripts/Applications/Office365/Office365_qle2/Installer_v10.0]</code>)</i>
+
+**`Step 2:`**
+</br>
+Under button <code><b>Fork</b></code>, click on button <code><b>Web IDE</b></code>
+<sub><i>*You will be redirected to the online IDE.</i></sub>
+
+**`Step 3:`**
+</br>
+Make any modification to the files.
+
+**`Step 4: Save the changes`**
+
+**__`Step 4.1:`__**
+
+</br>
+After modification, on the left most navigation column, click on button <code><b>Source Control</b></code>.
+
+#### Method 2: Offline, locally 🏠
