@@ -11,7 +11,7 @@
 | **Merge Request** |  A <b>merge request</b> (also known as a pull request) is a proposal to merge changes from one project into another. It is a way to review and discuss code changes before they are merged. Merge requests provide a collaborative workflow, allowing team members to review, comment, and suggest modifications. |
 
 
-### 0. 💡🛠️🔭 Pre-setup Environment: Check if there is any merge request from admin (Optional)
+### 0. 💡 Pre-setup Environment: Check if there is any merge request from admin (Optional)
 <sub><i>*These steps are only for comeback user who want to modify or update their existed Application Installer</i></sub>
 
 **`Step 1:`**
@@ -38,6 +38,8 @@ Everything is set, you start modifying your Installer
 
 ### A. 🧰 Set-up Environment
 
+**`Let's say you want to create an Installer for Office365. Here are how to do it!`**
+<br>
 **`Step 1:`**
 <br/>
 From the Homepage, on the left most navigation column, click on button <code><b>Groups</b></code> (3th button from top).
@@ -48,30 +50,29 @@ Select Group <code>[SCCM-Applications-Scripts]</code>
 
 **`Step 3:`**
 <br/>
-Go to Sub-Group <code>[Applications]</code>
+Select Subgroup <code>[Applications]</code>
 <br/>
-<sub><i>*There are 2 types of sections under Group (Sub-Group & Project).
-<br>Sub-Group has 3 dots at the begining, Project does not.</i></sub>
+<sub><i>Subgroup has 3 dots at the begining, Project does not.</i></sub>
 
 **`Step 4:`**
 <br/>
-Select the Sub-Group named <code>[your-desired-application]</code>
+Select the Subgroup named <code>[your-desired-application]</code>
 <br/>
-<code><i>(ex: Sub-Group [Notepad++])</i></code>
+<code><i>(ex: Subgroup [Notepad++])</i></code>
 
 **`Step 5:`**
 <br/>
-Click on button <code><b>New Subgroup</b></code> (on the top right corner, next to button <code><b>New project</b></code>), create Sub-Group named <code>[your-desired-application|your work account name]</code>
+Click on button <code><b>New Subgroup</b></code> (on the top right corner, next to button <code><b>New project</b></code>), create Subgroup named <code>[your-desired-application|your work account name]</code>
 <br/>
-<code><i>(ex: Sub-Group [Notepad++|qle2])</i></code>
+<code><i>(ex: Subgroup [Notepad++|qle2])</i></code>
 <br/>
-<sub><i>*This Sub-Group is where you gonna store your Application Installer later</i></sub>
+<sub><i>*This Subgroup is where you gonna store your Application Installer later</i></sub>
 
-### B. Create your own Application Installer from template:
+### B. 🛠️ Create your own Application Installer from template:
 
 **`Step 1:`**
 <br/>
-Go back to Sub-Group <code>[your-desired-application]</code>
+Go back to Subgroup <code>[your-desired-application]</code>
 
 **`Step 2:`**
 <br/>
@@ -95,7 +96,7 @@ Name your project (porject's name must be in this format <code>[Installer|...]</
 <br/>
 Click on button <code><i><b>Select a namespace</b></i> under the section Project URL.</code>
 <br/>
-Then select the path to the Sub-Group (from the dropdown menu) that you have just created earlier. 
+Then select the path to the Subgroup (from the dropdown menu) that you have just created earlier. 
 <br/>
 <code><i>(ex: Path [sccm-applications-scripts/applications/Notepadd++/Notepadd++|qle2])</i></code>
 
@@ -103,4 +104,4 @@ Then select the path to the Sub-Group (from the dropdown menu) that you have jus
 <br/>
 Give your project a short description
 
-### C. Modify the Application Installer:
+### C. 🔭 Modify the Application Installer:
