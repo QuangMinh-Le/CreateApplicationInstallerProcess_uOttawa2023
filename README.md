@@ -46,59 +46,59 @@ From the Homepage, on the left most navigation column, click on button <code><b>
 
 **`Step 2:`**
 <br/>
-Select Group <code>[SCCM-Applications-Scripts]</code>
+Select Group <code>[SCCM-Applications-Scripts].</code>
 
 **`Step 3:`**
 <br/>
-Select Subgroup <code>[Applications]</code>
+Select Subgroup <code>[Applications].</code>
 <br/>
 <sub><i>Subgroup has 3 dots at the begining, Project does not.</i></sub>
 
 **`Step 4:`**
 <br/>
-Select the Subgroup named <code>[your-desired-application]</code>
+Select the Subgroup named <code>[Office365].</code>
 <br/>
-<code><i>(ex: Subgroup [Notepad++])</i></code>
 
 **`Step 5:`**
 <br/>
-Click on button <code><b>New Subgroup</b></code> (on the top right corner, next to button <code><b>New project</b></code>), create Subgroup named <code>[your-desired-application|your work account name]</code>
+Click on button <code><b>New subgroup</b></code> (on the top right corner, next to button <code><b>New project</b></code>), create Subgroup named <code>[Office365|qle2].</code>
 <br/>
-<code><i>(ex: Subgroup [Notepad++|qle2])</i></code>
+<i>Add work account at the end.</i>
 <br/>
-<sub><i>*This Subgroup is where you gonna store your Application Installer later</i></sub>
+<sub><i>*This Subgroup is where you gonna store your Application Installer later.</i></sub>
 
 ### B. 🛠️ Create your own Application Installer from template:
 
 **`Step 1:`**
 <br/>
-Go back to Subgroup <code>[your-desired-application]</code>
+Go back to Subgroup <code>[Office365]</code>
 
 **`Step 2:`**
 <br/>
-Select Project <code>[your-desired-application|original]</code>
+Select Project <code>[Office365|original]</code>
 <br/>
-<code><i>(ex: Project [Notepad++|original])</i></code>
 
 **`Step 3:`**
 <br/>
-Click on button <code><i><b>Fork</b> (on the top right corner, on the right of project's name)</i></code>
+Click on button <code><b>Fork</b></code> (on the top right corner, on the right of project's name)
 <br/>
 <sub><i>*You will be redirected to the Forking window</i></sub>
 
 **`Step 4:`**
 <br/>
-Name your project (porject's name must be in this format <code>[Installer|...]</code>, you can put a specific version or date in the blank)
+Name your project.
+<br/>
+(project's name must be in this format <code>[Installer|...]</code>, you can put a specific version or date in the blank)
 <br/>
 <code><i>(ex: Project [Installer|ver.10.0])</i></code>
 
 **`Step 5:`**
 <br/>
-Click on button <code><i><b>Select a namespace</b></i> under the section Project URL.</code>
+Under the section Project URL, click on button <code><b>Select a namespace</b>.</code>
 <br/>
 Then select the path to the Subgroup (from the dropdown menu) that you have just created earlier. 
 <br/>
-<code><i>(ex: Path [sccm-applications-scripts/applications/Notepadd++/Notepadd++|qle2])</i></code>
+<i>(ex: Path <code>[sccm-applications-scripts/applications/Office365/Office365|qle2])</code></i>
 
 **`Step 6: (optional)`**
 <br/>
