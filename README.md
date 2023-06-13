@@ -165,4 +165,33 @@ Then, copy the path under <b>Clone with SSH</b>.
 <br/>
 Open terminal at the folder you have just created.
 <br/>
-Then type <code>git clone <i>"the copied path"</i></code>
+Then type <code>git clone <i>"the copied path"</i></code> in the terminal.
+
+**`Step 5:`**
+<br/>
+The codebase should be downloaded to your local machine. 
+<br/>
+You can modifying the code with any code editor. 
+
+**`Step 6: Save and Commit the change to Gitlab`**
+
+***`Step 6.1:`***
+</br>
+After modification, you have to firstly save you changes.
+
+***`Step 6.2:`***
+</br>
+In the terminal at your folder, type <code>git add .</code>. 
+</br>
+Then, type <code>git commit -m"<i>Give a commit message</i>".</code>. 
+</br>
+Then, type <code>git push</code>. 
+
+***`Step 4.3:`***
+</br>
+All the changes you made should be now saved to Gitlab. 
+</br>
+You can close the IDE, and go back to project window.
+</br>
+<sub><i>*Reload the page to see changes.</i></sub>
+
