@@ -148,7 +148,7 @@ You can close the online IDE window, and go back to project window.
 
 **`Step 1:`**
 Follow [Gitlab.uottawa setup instructions](https://www.uottawa.ca/uoweb/en/development/working-with-git).
-
+<br/>
+Login here: https://gitlab.uottawa.ca
 
 **`Step 2:`**
-Follow [Gitlab.uottawa setup instructions](https://www.uottawa.ca/uoweb/en/development/working-with-git).
