@@ -142,9 +142,10 @@ Then, you will see a pop-up, select <code>No. Use the current branch "main"</cod
 All the changes you made is now saved. 
 </br>
 You can close the online IDE window, and go back to project window.
+</br>
 <sub><i>*Reload the page to see changes.</i></sub>
 
-#### Method 2: Offline, locally 🏠
+#### Method 2: Offline, locally (Recommended if you are familiar with Git)🏠
 
 **`Step 1:`**
 Follow [Gitlab.uottawa setup instructions](https://www.uottawa.ca/uoweb/en/development/working-with-git).
@@ -152,3 +153,16 @@ Follow [Gitlab.uottawa setup instructions](https://www.uottawa.ca/uoweb/en/devel
 Login here: https://gitlab.uottawa.ca
 
 **`Step 2:`**
+<br/>
+On your local machine, create a folder as the workspace.
+
+**`Step 3:`**
+<br/>
+Go back to your project window, click on <code><b>Clone</b></code>. 
+Then, copy the path under <b>Clone with SSH</b>.
+
+**`Step 4:`**
+<br/>
+Open terminal at the folder you have just created.
+<br/>
+Then type <code>git clone <i>"the copied path"</i></code>
