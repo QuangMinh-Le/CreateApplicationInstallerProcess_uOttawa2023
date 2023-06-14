@@ -10,8 +10,8 @@
 | **Fork** | **Forking** is the process of creating a copy of a project under your own account or namespace. It allows you to make changes to the codebase without affecting the original project. Forks are often used for contributing to open-source projects or experimenting with modifications. |
 | **Merge** | **Merging** is the process of combining changes from one project into another. In GitLab, you can merge projects to consolidate code changes. For example, merging a fork project into the original project incorporates the new feature into the original codebase. |
 | **Merge Request** |  A **merge request** (also known as a pull request) is a proposal to merge changes from one project into another. It is a way to review and discuss code changes before they are merged. Merge requests provide a collaborative workflow, allowing team members to review, comment, and suggest modifications. |
-| *Merge Request from parent project to forked project* |  Admin who own the parent project can make changes to the project. Then, they create **merge requests** to all the forks of that project to keep all the forks updated with the new changes. |
-| *Merge Request from forked project to parent project* |  User who own the forked project can make changes to the project. If they want to contribute their work to the parent project, they need to create a **merge request** to the parent project. The admin will then  |
+| ***Merge Request*** *from parent project to forked project* |  Admin who own the parent project can make changes to the project. Then, they create **merge requests** to all the forks of that project to keep all the forks updated with the new changes. |
+| ***Merge Request*** *from forked project to parent project* |  User who own the forked project can make changes to the project. If they want to contribute their work to the parent project, they need to create a **merge request** to the parent project. The admin will then review and decide to accept the changes or not. |
 
 
 ### 0. 💡 Pre-setup Environment: Check if there is any merge request from admin (Optional)
