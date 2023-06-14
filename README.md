@@ -5,10 +5,13 @@
 ### ** 📝 Essential terminologies before getting start: **
 | Terminology | Definition |
 | :---: | --- |
-| <b>Group <br> --- <br> Subgroup <br> --- <br> Project</b> |  The relationship between these entities is hierarchical. A **group** can contain multiple subgroups, and each **subgroup** can contain multiple **projects** (similar to repositories in github). |
-| **Fork** | <b>Forking</b> is the process of creating a copy of a project under your own account or namespace. It allows you to make changes to the codebase without affecting the original project. Forks are often used for contributing to open-source projects or experimenting with modifications. |
-| **Merge** | <b>Merging</b> is the process of combining changes from one project into another. In GitLab, you can merge projects to consolidate code changes. For example, merging a fork project into the original project incorporates the new feature into the original codebase. |
-| **Merge Request** |  A <b>merge request</b> (also known as a pull request) is a proposal to merge changes from one project into another. It is a way to review and discuss code changes before they are merged. Merge requests provide a collaborative workflow, allowing team members to review, comment, and suggest modifications. |
+| <b>Group <br> --- <br> Subgroup <br> --- <br> Project</b> | The relationship between these entities is hierarchical. A **project** (similar to repositories in GitHub) represents an individual repository within a **subgroup**, and each **subgroup** can contain multiple projects. Furthermore, a **subgroup** can be a part of a larger **group**, which can also contain multiple subgroups. |
+| **Branch** | **Branch** is a separate line of development within a project. Branches are typically used for parallel development, where different features, bug fixes, or experiments can be worked on simultaneously without affecting the main codebase. Each branch contains its own set of commits, which are changes made to the code. |
+| **Fork** | **Forking** is the process of creating a copy of a project under your own account or namespace. It allows you to make changes to the codebase without affecting the original project. Forks are often used for contributing to open-source projects or experimenting with modifications. |
+| **Merge** | **Merging** is the process of combining changes from one project into another. In GitLab, you can merge projects to consolidate code changes. For example, merging a fork project into the original project incorporates the new feature into the original codebase. |
+| **Merge Request** |  A **merge request** (also known as a pull request) is a proposal to merge changes from one project into another. It is a way to review and discuss code changes before they are merged. Merge requests provide a collaborative workflow, allowing team members to review, comment, and suggest modifications. |
+| *Merge Request from parent project to forked project* |  Admin who own the parent project can make changes to the project. Then, they create **merge requests** to all the forks of that project to keep all the forks updated with the new changes. |
+| *Merge Request from forked project to parent project* |  User who own the forked project can make changes to the project. If they want to contribute their work to the parent project, they need to create a **merge request** to the parent project. The admin will then  |
 
 
 ### 0. 💡 Pre-setup Environment: Check if there is any merge request from admin (Optional)
