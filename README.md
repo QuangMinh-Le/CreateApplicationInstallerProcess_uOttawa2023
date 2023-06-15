@@ -152,15 +152,24 @@ You can close the IDE, and go back to project window.
 
 **`Step 3.1:`**
 </br>
-In your project's window, to the left of blue button<code><b>Clone</b></code>, click on button <code><b><img alt="TypeScript" width="20px" style="padding-right:10px; cursor: none;" src="https://raw.githubusercontent.com/QuangMinh-Le/CreateApplicationInstallerProcess_uOttawa2023/main/download%20(1).svg" /></b></code>
+In your project's window, to the left of blue button<code><b>Clone</b></code>, click on button <img alt="TypeScript" width="20px" style="padding-right:10px; cursor: none;" src="https://raw.githubusercontent.com/QuangMinh-Le/CreateApplicationInstallerProcess_uOttawa2023/main/download%20(1).svg" /> to download the whole project to your local machine.
 </br>
-<sub><i>*You will be redirected to the online IDE.</i></sub>
+
+**`Step 3.2:`**
+</br>
+Rename the file <code>[Deploy-Application.ps1]</code> to <code>[Office365_2023.ps1]</code>. 
+
+**`Step 3.3:`**
+</br>
+Put the installer to the folder <code>Files</code> and any customized support file in folder <code>SupportFiles</code>. 
+
+**`Step 3.4:`**
+</br>
+Everything should be ready for deployment on SCCM.
 
 
 
-
-
-### ***💡 Upon each login recommended process:
+### **Bonus 1.💡 Upon each login recommended process:
 <sub><i>*These steps are only for comeback user who want to modify or update their existed Application Installer</i></sub>
 
 **`Step 1:`**
@@ -180,7 +189,50 @@ If there is a conflict, you can click on button <code><b>Changes</b></code>(the 
 <br/>
 If there is no conflict ("Ready to merge!"), you can click on the button <code><b>Merge</b></code> to accept the merge request.
 <br/> 
-<sub><i>*You still can review the changes by clicking on button <code><b>Changes</b></code></i></sub>
+<sub><i>*You still can review the changes by clicking on button <code><b>Changes</b></code></i></sub>.
 
 ***`Step 2.2:`***
-Everything is set, you start modifying your Installer
+Everything is set, you start modifying your Installer.
+
+
+### **Bonus 2.💡 You forked a project, modify it, and then you want to recommend those changes to the original project. Here is how to do it:
+
+**`Step 1:`**
+<br/>
+Go to the project that you made changes, on the left most navigation column, click on button <code><b>Merge Request</b></code> (4th button from top).
+
+**`Step 2:`**
+<br/>
+Click on button <code><b>New merge request</b></code>.
+<br/>
+
+**`Step 3:`**
+<br/>
+
+Under **Source branch**, click on<code><b>Select source branch</b></code>, then select <code>main</code>.
+<br/>
+
+**`Step 4:`**
+<br/>
+
+Under **Target branch**, select the path to the original project where you want to contribute your work to, then select <code>main</code>.
+<br/>
+
+**`Step 5:`**
+<br/>
+Click on<code><b>Compare branches and continue</b></code>.
+<br/>
+<sub><i>*You will be redirected to the marge request window.</sub></i>
+
+**`Step 6:`**
+<br/>
+Make sure to give a clear tilte and a detailed description for the merge request.
+<br/>
+Then select admin account as the <b>Reviewer</b>.
+
+**`Step 7:`**
+<br/>
+Click on<code><b>Create merge request</b></code>.
+<br/>
+Good job, thank you for your contribution, admin will review you recommendation and choose to accept or not.
+
