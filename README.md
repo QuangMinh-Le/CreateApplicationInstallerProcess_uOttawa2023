@@ -152,7 +152,7 @@ You can close the IDE, and go back to project window.
 
 **`Step 3.1:`**
 </br>
-In your project's window, to the left of blue button<code><b>Clone</b></code>, click on button <code><b><img align="left" alt="TypeScript" width="20px" style="padding-right:10px; cursor: none;" src="https://raw.githubusercontent.com/QuangMinh-Le/CreateApplicationInstallerProcess_uOttawa2023/main/download%20(1).svg" /></b></code>
+In your project's window, to the left of blue button<code><b>Clone</b></code>, click on button <code><b><img alt="TypeScript" width="20px" style="padding-right:10px; cursor: none;" src="https://raw.githubusercontent.com/QuangMinh-Le/CreateApplicationInstallerProcess_uOttawa2023/main/download%20(1).svg" /></b></code>
 </br>
 <sub><i>*You will be redirected to the online IDE.</i></sub>
 
