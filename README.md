@@ -240,6 +240,6 @@ Click on<code><b>Create merge request</b></code>.
 The original project admin will review the changes and decide whether to accept them or not.
 <br/>
 
-## **🚀 That's it! You have successfully created an Application Installer Package for Office365. Happy deploying! 🚀**##
+## **🚀 That's it! You have successfully created an Application Installer Package for Office365. Happy deploying! 🚀**
 
 
