@@ -10,8 +10,8 @@
 | **Fork** | **Forking** is the process of creating a copy of a project under your own account or namespace. It allows you to make changes to the codebase without affecting the original project. Forks are often used for contributing to open-source projects or experimenting with modifications. |
 | **Merge** | **Merging** is the process of combining changes from one project into another. In GitLab, you can merge projects to consolidate code changes. For example, merging a fork project into the original project incorporates the new feature into the original codebase. |
 | **Merge Request** |  A **merge request** (also known as a pull request) is a proposal to merge changes from one project into another. It is a way to review and discuss code changes before they are merged. Merge requests provide a collaborative workflow, allowing team members to review, comment, and suggest modifications. |
-| ***Merge Request*** *from parent project to forked project* |  Admin who own the parent project can make changes to the project. Then, they create **merge requests** to all the forks of that project to keep all the forks updated with the new changes. |
-| ***Merge Request*** *from forked project to parent project* |  User who own the forked project can make changes to the project. If they want to contribute their work to the parent project, they need to create a **merge request** to the parent project. The admin will then review and decide to accept the changes or not. |
+| ***Merge Request*** *from parent project to forked project* | The admin who owns the parent project can make changes to the project. Then, they create **merge requests** to all the forks of that project to keep all the forks updated with the new changes. |
+| ***Merge Request*** *from forked project to parent project* | The user who owns the forked project can make changes to the project. If they want to contribute their work to the parent project, they need to create a **merge request** to the parent project. The admin will then review and decide whether to accept the changes or not. |
 
 ## **Let's say you want to create an Installer for Office365. Here are how to do it!**
 
@@ -19,7 +19,7 @@
 
 **`Step 1.1:`**
 <br/>
-From the Homepage, on the left most navigation column, click on button <code><b>Groups</b></code> (3th button from top).
+From the Homepage, on the leftmost navigation column, click on button <code><b>Groups</b></code> (3th button from top).
 
 **`Step 1.2:`**
 <br/>
@@ -39,9 +39,9 @@ Click on button <code><b>Fork</b></code> (on the top right corner, to the right 
 
 **`Step 1.5:`**
 <br/>
-Name your project after Application's name <code>[Office365]</code>.
+Name your project after application's name <code>[Office365]</code>.
 <br/>
-(Sometime, it is necessary to give the app's version, you can name your project with the version - ex: <code>[Office365_2023]</code>).
+(Sometime, it is necessary to give the app's version, you can name your project with the version - e.g.: <code>[Office365_2023]</code>).
 
 **`Step 1.6:`**
 <br/>
@@ -192,10 +192,10 @@ If there is no conflict ("Ready to merge!"), you can click on the button <code><
 <sub><i>*You still can review the changes by clicking on button <code><b>Changes</b></code></i></sub>.
 
 ***`Step 2.2:`***
-Everything is set, you start modifying your Installer.
+Everything is set, you can start modifying your Installer.
 
 
-### **Bonus 2.💡 You forked a project, modify it, and then you want to recommend those changes to the original project. Here is how to do it:
+### **Bonus 2.💡 You forked a project, modified it, and then you want to recommend those changes to the original project. Here is how to do it:
 
 **`Step 1:`**
 <br/>
@@ -226,7 +226,7 @@ Click on<code><b>Compare branches and continue</b></code>.
 
 **`Step 6:`**
 <br/>
-Make sure to give a clear tilte and a detailed description for the merge request.
+Make sure to give a clear tilte and a detailed descriptionof the changes you made.
 <br/>
 Then select admin account as the <b>Reviewer</b>.
 
@@ -234,5 +234,12 @@ Then select admin account as the <b>Reviewer</b>.
 <br/>
 Click on<code><b>Create merge request</b></code>.
 <br/>
-Good job, thank you for your contribution, admin will review you recommendation and choose to accept or not.
+
+**`Step 8:`**
+<br/>
+The original project admin will review the changes and decide whether to accept them or not.
+<br/>
+
+## **🚀 That's it! You have successfully created an Application Installer Package for Office365. Happy deploying! 🚀**##
+
 
